@@ -1,0 +1,6 @@
+material-kit-master/*
+!material-kit-master/assets/
+material-kit-master/assets/*
+!material-kit-master/assets/css
+!material-kit-master/assets/img
+!material-kit-master/assets/js
